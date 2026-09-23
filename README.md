@@ -1,4 +1,4 @@
-# Welcome to first EZTAD respository
+# Welcome to EZTAD
 # Zero Trust Implementation Experience Repository
 
 ## About This Repository
