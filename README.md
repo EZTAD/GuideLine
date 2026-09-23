@@ -119,7 +119,7 @@ Accepted formats may include:
 * YAML (`.yaml` / `.yml`)
 * SVG (`.svg`)
 * PNG (`.png`)
-* JPEG (`.jpg` / `.jpeg`)
+
 
 Other open and commonly supported formats may also be accepted when necessary.
 
