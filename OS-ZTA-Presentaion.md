@@ -52,7 +52,7 @@ Traditional security architecture is largely based on the assumption that:
                 Internet
                    │
               ┌────▼────┐
-              │ Firewall │
+              │ Firewall│
               └────┬────┘
                    │
           ┌────────▼────────┐
