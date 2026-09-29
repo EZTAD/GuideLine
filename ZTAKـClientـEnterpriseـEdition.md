@@ -1,5 +1,49 @@
 # ZTAK Client Enterprise Edition
 
+**Operating System:** Debian Linux  
+**Desktop Environment:** KDE Plasma  
+
+## Enterprise Security Features
+
+| No. | Feature |
+|---|---|
+| 1 | **Dedicated Installation via USB Stick** |
+| 2 | **Network Segmentation Between Internet and Internal Networks** |
+| 3 | **Partition-Level Code Execution Protection** |
+| 4 | **Bootloader Access Authentication** |
+| 5 | **LUKS-Protected Maintenance Mode** |
+| 6 | **Protected Software Package Installation** |
+| 7 | **Terminal Access Restriction** |
+| 8 | **Local Process Validation System (LPVS)** |
+| 9 | **Two-Factor Authentication (2FA) for Login** |
+| 10 | **Non-Executable /home Partition** |
+| 11 | **Protected /run Filesystem with Code Execution Disabled** |
+| 12 | **Protection Against Unauthorized Process Access with AppArmor** |
+| 13 | **Protection Against Unauthorized Network Configuration Changes with Polkit** |
+| 14 | **Protection Against Unauthorized Process Network Access with Dynamic Firewall** |
+| 15 | **Restricted Remote Access (SSH/RDP) via a Custom HTML5-Based Gateway** |
+| 16 | **Support for Common Persian Fonts in LibreOffice and ONLYOFFICE** |
+| 17 | **Controlled Access to Portable Peripheral Devices (Mouse, Keyboard, Webcam, External Storage, and Similar Devices)** |
+| 18 | **CPU and Memory Resource Control for Resource-Intensive Applications Using systemd Transient Services** |
+| 19 | **SSH Access Restricted to Public Key Authentication Only** |
+| 20 | **Webmin Access Restricted Through SSH Tunnel Only** |
+| 21 | **Customized Plymouth Boot Splash with Security Warning Banner** |
+
+# ZTAK Client Enterprise Edition – Security Capabilities
+
+## Security Capabilities
+
+- **Secure Boot and Startup Protection**
+- **Encrypted Maintenance Environment**
+- **Application Execution Control**
+- **Local Process Integrity Validation**
+- **Identity and Access Management**
+- **Network Access Control and Segmentation**
+- **Remote Access Security Enforcement**
+- **Peripheral Device Governance**
+- **System Resource Management**
+- **Security Awareness and Organizational Branding**
+
 # Alignment with NIST SP 800-207 Zero Trust Architecture
 
 ## Document Information
